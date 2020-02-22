@@ -1,0 +1,154 @@
+<xml version ="1.0" encoding ="utf-8">
+	<Researches>
+		<Research>
+			<Name>Agriculture</Name>
+			<Science>0</Science>
+			<Prerecs>none</Prerecs>
+			<Level>0</Level>
+		</Research>
+		<Research>
+			<Name>Pottery</Name>
+			<Science>35</Science>
+			<Prerecs>Agriculture</Prerecs>
+			<Level>1</Level>
+		</Research>
+		<Research>
+			<Name>Animal Husbandry</Name>
+			<Science>35</Science>
+			<Prerecs>Agriculture</Prerecs>
+			<Level>1</Level>
+		</Research>
+		<Research>
+			<Name>Archery</Name>
+			<Science>35</Science>
+			<Prerecs>Agriculture</Prerecs>
+			<Level>1</Level>
+		</Research>
+		<Research>
+			<Name>Mining</Name>
+			<Science>35</Science>
+			<Prerecs>Agriculture</Prerecs>
+			<Level>1</Level>
+		</Research>
+		<Research>
+			<Name>Sailing</Name>
+			<Science>55</Science>
+			<Prerecs>Pottery</Prerecs>
+			<Level>2</Level>
+		</Research>
+		<Research>
+			<Name>Calendar</Name>
+			<Science>55</Science>
+			<Prerecs>Pottery</Prerecs>
+			<Level>2</Level>
+		</Research>
+		<Research>
+			<Name>Writing</Name>
+			<Science>55</Science>
+			<Prerecs>Pottery</Prerecs>
+			<Level>2</Level>
+		</Research>
+		<Research>
+			<Name>Trapping</Name>
+			<Science>55</Science>
+			<Prerecs>Animal Husbandry</Prerecs>
+			<Level>2</Level>
+		</Research>
+		<Research>
+			<Name>The Wheel</Name>
+			<Science>55</Science>
+			<Prerecs>Animal Husbandry,Archery</Prerecs>
+			<Level>2</Level>
+		</Research>
+		<Research>
+			<Name>Masonry</Name>
+			<Science>55</Science>
+			<Prerecs>Mining</Prerecs>
+			<Level>2</Level>
+		</Research>
+		<Research>
+			<Name>Bronze Working</Name>
+			<Science>55</Science>
+			<Prerecs>Mining</Prerecs>
+			<Level>2</Level>
+		</Research>
+		<Research>
+			<Name>Optics</Name>
+			<Science>85</Science>
+			<Prerecs>Sailing</Prerecs>
+			<Level>3</Level>
+		</Research>
+		<Research>
+			<Name>Horseback Riding</Name>
+			<Science>105</Science>
+			<Prerecs>The Wheel,Trapping</Prerecs>
+			<Level>3</Level>
+		</Research>
+		<Research>
+			<Name>Mathematics</Name>
+			<Science>105</Science>
+			<Prerecs>The Wheel</Prerecs>
+			<Level>3</Level>
+		</Research>		
+		<Research>
+			<Name>Construction</Name>
+			<Science>105</Science>
+			<Prerecs>The Wheel,Masonry</Prerecs>
+			<Level>3</Level>
+		</Research>
+		<Research>
+			<Name>Philosophy</Name>
+			<Science>175</Science>
+			<Prerecs>Calendar,Writing</Prerecs>
+			<Level>4</Level>
+		</Research>
+		<Research>
+			<Name>Drama And Poetry</Name>
+			<Science>175</Science>
+			<Prerecs>Writing</Prerecs>
+			<Level>4</Level>
+		</Research>
+		<Research>
+			<Name>Currency</Name>
+			<Science>175</Science>
+			<Prerecs>Mathematics</Prerecs>
+			<Level>4</Level>
+		</Research>
+		<Research>
+			<Name>Engineering</Name>
+			<Science>175</Science>
+			<Prerecs>Mathematics,Construction</Prerecs>
+			<Level>4</Level>
+		</Research>
+		<Research>
+			<Name>Iron Working</Name>
+			<Science>195</Science>
+			<Prerecs>Bronze Working</Prerecs>
+			<Level>4</Level>
+		</Research>
+		<Research>
+			<Name>Theology</Name>
+			<Science>275</Science>
+			<Prerecs>Drama And Poetry,Philosophy</Prerecs>
+			<Level>5</Level>
+		</Research>
+		<Research>
+			<Name>Civil Service</Name>
+			<Science>175</Science>
+			<Prerecs>Drama And Poetry,Horseback Riding,Currency</Prerecs>
+			<Level>5</Level>
+		</Research>
+		<Research>
+			<Name>Guilds</Name>
+			<Science>275</Science>
+			<Prerecs>Currency</Prerecs>
+			<Level>5</Level>
+		</Research>
+		<Research>
+			<Name>Metal Casting</Name>
+			<Science>275</Science>
+			<Prerecs>Engineering,Iron Working</Prerecs>
+			<Level>5</Level>
+		</Research>
+	</Researches>
+</xml>

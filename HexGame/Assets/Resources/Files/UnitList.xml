@@ -1,0 +1,31 @@
+<xml version ="1.0" encoding ="utf-8">
+	<Units>
+		<Unit>
+      <Name>Warrior</Name>
+		  <Movement>2</Movement>
+		  <Vision>3</Vision>
+		  <CanSettle>false</CanSettle>
+		  <ProductionCost>5</ProductionCost>
+		  <HitPoints>100</HitPoints>
+		  <Attackable>true</Attackable>
+		</Unit>
+		<Unit>
+		  <Name>Settler</Name>
+		  <Movement>2</Movement>
+		  <Vision>3</Vision>
+		  <CanSettle>true</CanSettle>
+		  <ProductionCost>20</ProductionCost>
+		  <HitPoints>10</HitPoints>
+		  <Attackable>true</Attackable>
+		</Unit>
+    <Unit>
+      <Name>Scout</Name>
+      <Movement>4</Movement>
+      <Vision>5</Vision>
+      <CanSettle>false</CanSettle>
+      <ProductionCost>10</ProductionCost>
+      <HitPoints>100</HitPoints>
+      <Attackable>true</Attackable>
+    </Unit>    
+	</Units>
+</xml>

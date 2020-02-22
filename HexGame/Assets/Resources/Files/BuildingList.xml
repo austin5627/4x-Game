@@ -1,0 +1,103 @@
+<xml version ="1.0" encoding ="utf-8">
+	<Buildings>
+    <Building>
+      <Name>Monument</Name>
+      <Desc>Remember Fallen Heros</Desc>
+	  <LDesc>reminīscere mortem heroem</LDesc>
+      <Production>4</Production>
+      <ProductionCost>20</ProductionCost>
+      <Food>2</Food>
+      <Gold>-1</Gold>
+      <Science>0</Science>
+	  <Research>Agriculture</Research>
+    </Building>
+    <Building>
+      <Name>Library</Name>
+      <Desc>read books</Desc>
+	  <LDesc>lege libros</LDesc>
+      <Production>0</Production>
+      <ProductionCost>100</ProductionCost>
+      <Food>0</Food>
+      <Gold>-1</Gold>
+      <Science>5</Science>
+	  <Research>Writing</Research>
+    </Building>
+    <Building>
+      <Name>Granary</Name>
+      <Desc>Eat Food</Desc>
+	  <LDesc>cena cibos</LDesc>
+      <Production>0</Production>
+      <ProductionCost>50</ProductionCost>
+      <Food>5</Food>
+      <Gold>-2</Gold>
+      <Science>0</Science>
+	  <Research>Pottery</Research>
+    </Building>
+    <Building>
+      <Name>Stable</Name>
+      <Desc>Do stuff with horses</Desc>
+	  <LDesc>age cum equum</LDesc>
+      <Production>7</Production>
+      <ProductionCost>50</ProductionCost>
+      <Food>0</Food>
+      <Gold>-1</Gold>
+      <Science>0</Science>
+	  <Research>Animal Husbandry</Research>
+    </Building>
+    <Building>
+      <Name>Pantheon</Name>
+      <Desc>Praise Gods</Desc>
+	  <LDesc>lauda deos</LDesc>
+      <Production>0</Production>
+      <ProductionCost>100</ProductionCost>
+      <Food>2</Food>
+      <Gold>-1</Gold>
+      <Science>0</Science>
+	  <Research>Philosophy</Research>
+    </Building> 
+	<Building>
+      <Name>Colosseum</Name>
+      <Desc>Fight Gladiators</Desc>
+	  <LDesc>pugna gladiātōres</LDesc>
+      <Production>0</Production>
+      <ProductionCost>120</ProductionCost>
+      <Food>0</Food>
+      <Gold>5</Gold>
+      <Science>0</Science>
+	  <Research>Construction</Research>
+    </Building> 
+	<Building>
+      <Name>Aqueduct</Name>
+      <Desc>Transport Water</Desc>
+	  <LDesc>porta aquam</LDesc>
+      <Production>0</Production>
+      <ProductionCost>80</ProductionCost>
+      <Food>3</Food>
+      <Gold>-1</Gold>
+      <Science>0</Science>
+	  <Research>Engineering</Research>
+    </Building>
+	<Building>
+      <Name>Palace</Name>
+      <Desc>Live in Luxury</Desc>
+	  <LDesc>vive in luxurias</LDesc>
+      <Production>0</Production>
+      <ProductionCost>0</ProductionCost>
+      <Food>3</Food>
+      <Gold>5</Gold>
+      <Science>3</Science>
+	  <Research>Agriculture</Research>
+    </Building>
+	<Building>
+      <Name>Road</Name>
+      <Desc>Move quickly</Desc>
+	  <LDesc>move celeriter</LDesc>
+      <Production>5</Production>
+      <ProductionCost>50</ProductionCost>
+      <Food>0</Food>
+      <Gold>-1</Gold>
+      <Science>0</Science>
+	  <Research>The Wheel</Research>
+    </Building>
+  </Buildings>
+</xml>

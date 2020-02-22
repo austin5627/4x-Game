@@ -1,0 +1,36 @@
+<xml version ="1.0" encoding ="utf-8">
+	<Resources>
+		<Resource>
+			<Name>Iron</Name>
+			<Production>3</Production>
+			<Food>0</Food>
+			<Gold>0</Gold>
+			<Science>0</Science>			
+			<ResearchNeeded>Mining</ResearchNeeded>
+		</Resource>
+		<Resource>
+			<Name>Copper</Name>
+			<Production>3</Production>
+			<Food>0</Food>
+			<Gold>0</Gold>
+			<Science>0</Science>
+			<ResearchNeeded>Mining</ResearchNeeded>			
+		</Resource>
+		<Resource>
+			<Name>Gems</Name>
+			<Production>3</Production>
+			<Food>0</Food>
+			<Gold>0</Gold>
+			<Science>0</Science>
+			<ResearchNeeded>Mining</ResearchNeeded>			
+		</Resource>
+		<Resource>
+			<Name>Gold</Name>
+			<Production>3</Production>
+			<Food>0</Food>
+			<Gold>0</Gold>
+			<Science>0</Science>
+			<ResearchNeeded>Mining</ResearchNeeded>			
+		</Resource>
+	</Resources>
+</xml>
